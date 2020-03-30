@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c55d7249-fa19-475d-9ae9-d85d822e67f9" name="Default Changelist" comment="" />
+    <list default="true" id="c55d7249-fa19-475d-9ae9-d85d822e67f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KeyboardListener.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/KeyboardListener.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RenderScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/RenderScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZgBszGRALu9nSZ0xceQWmuSmiZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +44,16 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585251067438</updated>
       <workItem from="1585251068738" duration="6020000" />
-      <workItem from="1585314648984" duration="8023000" />
+      <workItem from="1585314648984" duration="17470000" />
+      <workItem from="1585571022688" duration="6204000" />
     </task>
     <servers />
   </component>
@@ -51,13 +75,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585314815629">
+    <state x="1397" y="251" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585595843172">
       <screen x="1024" y="0" width="1280" height="1024" />
     </state>
-    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585314815629" />
-    <state x="1327" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1585330139090">
+    <state x="1397" y="251" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585595843172" />
+    <state x="1393" y="236" width="540" height="524" key="StructurePopup" timestamp="1585335620746">
       <screen x="1024" y="0" width="1280" height="1024" />
     </state>
-    <state x="1327" y="232" width="672" height="678" key="search.everywhere.popup/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585330139090" />
+    <state x="1393" y="236" width="540" height="524" key="StructurePopup/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585335620746" />
+    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585571085290">
+      <screen x="1024" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585571085290" />
+    <state x="1309" y="241" width="709" height="522" key="find.popup" timestamp="1585335601416">
+      <screen x="1024" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1309" y="241" width="709" height="522" key="find.popup/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585335601416" />
+    <state x="1327" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1585335565678">
+      <screen x="1024" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1327" y="232" width="672" height="678" key="search.everywhere.popup/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585335565678" />
   </component>
 </project>
