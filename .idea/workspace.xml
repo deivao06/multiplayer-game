@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c55d7249-fa19-475d-9ae9-d85d822e67f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/RenderScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/RenderScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <workItem from="1585251068738" duration="6020000" />
       <workItem from="1585314648984" duration="17470000" />
       <workItem from="1585571022688" duration="11820000" />
-      <workItem from="1585663150605" duration="9380000" />
+      <workItem from="1585663150605" duration="11953000" />
     </task>
     <servers />
   </component>
