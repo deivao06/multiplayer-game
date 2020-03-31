@@ -11,7 +11,7 @@ export default function createGame() {
     var observers = [];
 
     function start() {
-        var frequency = 2000;
+        var frequency = 4000;
 
         setInterval(addFruit, frequency);
     }
@@ -28,11 +28,13 @@ export default function createGame() {
 
     function addPlayer(command){
         var playerId = command.playerId;
+        var playerName = command.playerName;
         var playerX = 'playerX' in command ? command.playerX : Math.floor(Math.random() * state.screen.width);
         var playerY = 'playerY' in command ? command.playerY : Math.floor(Math.random() * state.screen.height);
         var playerScore = 0;
 
         state.players[playerId] = {
+            playerName: playerName,
             x: playerX,
             y: playerY,
             score: playerScore
@@ -41,6 +43,7 @@ export default function createGame() {
         notifyAll({
             type: 'add-player',
             playerId: playerId,
+            playerName: playerName,
             playerX: playerX,
             playerY: playerY,
             playerScore: playerScore

@@ -84,12 +84,12 @@
 
     var game = createGame();
     var keyboardListener = createKeyboardListener(document);
+    var playerName = prompt("Escolha um nome: ");
 
-    var socket = io();
+    var socket = io('?playerName=' + playerName);
 
     socket.on('connect', () => {
         var playerId = socket.id;
-
         var screen = document.getElementById('screen');
         var scoreboard = document.getElementById('scoreboard');
 

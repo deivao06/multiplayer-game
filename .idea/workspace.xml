@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c55d7249-fa19-475d-9ae9-d85d822e67f9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/Game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/RenderScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/RenderScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
@@ -61,7 +62,8 @@
       <updated>1585251067438</updated>
       <workItem from="1585251068738" duration="6020000" />
       <workItem from="1585314648984" duration="17470000" />
-      <workItem from="1585571022688" duration="11513000" />
+      <workItem from="1585571022688" duration="11820000" />
+      <workItem from="1585663150605" duration="9380000" />
     </task>
     <servers />
   </component>
@@ -77,10 +79,10 @@
       <screen x="1024" y="0" width="1280" height="1024" />
     </state>
     <state x="1393" y="236" width="540" height="524" key="StructurePopup/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585335620746" />
-    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585571085290">
+    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585663153002">
       <screen x="1024" y="0" width="1280" height="1024" />
     </state>
-    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585571085290" />
+    <state x="1320" y="329" key="com.intellij.ide.util.TipDialog/1024.0.1280.1024/0.256.1024.768@1024.0.1280.1024" timestamp="1585663153002" />
     <state x="1309" y="241" width="709" height="522" key="find.popup" timestamp="1585335601416">
       <screen x="1024" y="0" width="1280" height="1024" />
     </state>

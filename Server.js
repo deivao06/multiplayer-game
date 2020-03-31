@@ -20,16 +20,16 @@ game.subscribe((command) => {
 
 sockets.on('connection', (socket) => {
     var playerId = socket.id;
-
+    var playerName = socket.handshake.query.playerName;
     console.log(`> Player connected on Server with id: ${playerId}`);
 
-    game.addPlayer({playerId: playerId});
+    game.addPlayer({playerId: playerId, playerName: playerName});
     socket.emit('setup', game.state);
 
     socket.on('disconnect', () => {
         game.removePlayer({playerId: playerId});
         console.log(`> Player disconnected: ${playerId}`);
-    })
+    });
 
     socket.on('move-player', (command) => {
         command.playerId = playerId;
